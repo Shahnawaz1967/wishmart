@@ -8,17 +8,27 @@ Responsive Design: The website provides a seamless experience across various dev
 Cart Management: Users can view and manage the items in their cart before making a purchase.
 
 # Main pages of the project
+![home1](https://github.com/Shahnawaz1967/wishmart/assets/127391541/f0701860-6a53-4d48-8e0f-1be360cb695f)
+
 # Home page 
+![home_page](https://github.com/Shahnawaz1967/wishmart/assets/127391541/79ac50be-3f49-4653-ab3d-0267b38a1d90)
 
 #  Signup 
+![signup](https://github.com/Shahnawaz1967/wishmart/assets/127391541/9c9cff01-4c7d-490b-ba65-31391d266b3d)
 
 #  Login
+![login](https://github.com/Shahnawaz1967/wishmart/assets/127391541/9f901196-ef0d-49ce-a974-9210787357c8)
 
-#  products page
+#  Profile page
 
-#  about page
+![profile](https://github.com/Shahnawaz1967/wishmart/assets/127391541/44ec9688-7997-4525-8d96-c88cb0e3e5a2)
 
-#   cart
+#  Footer page
+![footer](https://github.com/Shahnawaz1967/wishmart/assets/127391541/250287fe-820d-4119-bec8-b480d2b14add)
+
+
+#  About page
+![2024-05-19](https://github.com/Shahnawaz1967/wishmart/assets/127391541/1673f980-e6ef-40e0-b0b1-daa4af066654)
 
 
 ##  🌿 `Project Folder Structure`
