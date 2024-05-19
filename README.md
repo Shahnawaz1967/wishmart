@@ -44,7 +44,7 @@ Cart Management: Users can view and manage the items in their cart before making
 - 1. Clone this repository:
 
 ```bash :
-  https://github.com/jyotipatthak/wishmart/
+  https://github.com/Shahnawaz1967/wishmart.git
 ``` 
 
 2. Install dependencies:
