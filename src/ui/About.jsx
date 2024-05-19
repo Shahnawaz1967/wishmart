@@ -18,7 +18,7 @@ const About = () => {
          
           <div className=" px-7">
             <h1 className="font-semibold text-2xl text-black">About Developer</h1>
-            <p className="text-gray-900 font-semibold">Hello I am <span className="font-semibold text-white"> JYOTI PATHAK </span> dedicated Full Stack Web Developer and I made this website. I love paying attention to the little things and enjoy creating smooth and easy-to-use online stores that stand out and make shopping a breeze.</p>
+            <p className="text-gray-900 font-semibold">Hello I am <span className="font-semibold text-white"> Md Shahnawaz Alam </span> dedicated Full Stack Web Developer and I made this website. I love paying attention to the little things and enjoy creating smooth and easy-to-use online stores that stand out and make shopping a breeze.</p>
 
             <h1 className="font-semibold text-2xl text-black">Frameworks and Technologies Used</h1>
             <p className=" text-gray-900 font-semibold">When I was developing the Wish WebApp, I've used some powerful tools and technologies to build a modern website that works smoothly and it is Single page Application, and the user can feel seamless experience.</p>
@@ -39,10 +39,10 @@ const About = () => {
             <h1 className="font-semibold  text-gray-900"> I look forward to establishing a connection.</h1>
             <p className="font-semibold  text-gray-900" >Feel free to explore the website, discover our offerings, and don’t hesitate to share any questions or suggestions. Your journey through this online shopping experience matters to us, and we’re here to assist. Happy browsing!</p>
             <div className="flex  md:text-[50px] text-red justify-evenly my-8 text-black">
-              <Link to={"https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXUsZx%2BkBT06pNownOs8ehQ%3D%3D"} target="_blank" data-aos="zoom-in">
+              <Link to={"http://www.linkedin.com/in/md-shahnawaz-alam-87b38a232"} target="_blank" data-aos="zoom-in">
                 <FaLinkedin className="hover:text-[#b50030] text-gray-500 transition-all ease duration-300" />
               </Link>
-              <Link to={"https://github.com/jyotipatthak"} target="_blank" data-aos="zoom-in">
+              <Link to={"https://github.com/Shahnawaz1967"} target="_blank" data-aos="zoom-in">
                 <FaGithub className="hover:text-[#b50009]  text-gray-500 transition-all ease duration-300" />
               </Link>
             </div>
